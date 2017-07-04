@@ -1,0 +1,19 @@
+{
+  "name": "vue-paginated-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limhs/vue-paginated-table.git"
+  },
+  "author": "Brandon Lim <brandonlim.lim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limhs/vue-paginated-table/issues"
+  },
+  "homepage": "https://github.com/limhs/vue-paginated-table#readme"
+}
